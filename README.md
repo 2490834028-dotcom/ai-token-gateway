@@ -1,3 +1,4 @@
+# ai-token-gateway
 # Sub2API - AI Token 中转站
 
 > 将 Claude、OpenAI、Gemini 等 AI 订阅配额统一转化为标准 API 接口，实现高效分发和管理
@@ -8,7 +9,7 @@
 
 **Sub2API**（也称 CRS2）是一款基于 **Go 语言**开发的开源 **AI API 网关平台**。它可以将各大 AI 平台的网页版订阅（如 ChatGPT Plus、Claude Pro 等）或 API 额度，统一转化为标准的 OpenAI 兼容 API 接口，供第三方工具和应用调用。
 
-本项目基于 [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) 部署搭建，参考了 [吴宾的教程](https://wu.wubin.cc/171.html) 完成配置。
+本项目基于 [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) 部署搭建。
 
 ---
 
