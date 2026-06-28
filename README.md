@@ -256,7 +256,6 @@ A：建议使用 Nginx 反向代理并配置 SSL 证书
 
 - [GitHub 官方仓库](https://github.com/Wei-Shaw/sub2api)
 - [Sub2API 官方部署文档](https://github.com/Wei-Shaw/sub2api/blob/main/deploy/README.md)
-- [吴宾的 Sub2API 教程](https://wu.wubin.cc/171.html)（含 B 站视频讲解）
 - [Sub2API 使用对比与 New-API 对比](https://zengwu.com.cn/archives/ocsubnew)
 - [演示站](https://demo.sub2api.org/)
 
